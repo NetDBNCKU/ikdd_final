@@ -1,0 +1,15 @@
+.domain{
+    stroke:#000;
+    fill:none;
+}
+#right{
+    display: inline-block;
+}
+#year{
+    font-size: 50px;
+    margin:30px 0px;
+}
+#city{
+    font-size: 40px;
+    margin:30px 0px;
+}
